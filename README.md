@@ -3,7 +3,7 @@
  
 
 <h2>Hi, I'm Umair!</h2>
-<p>I am a recently  Software Enginnering student from the <a href="https://www.comsats.edu.pk/">CIIT</a> in Lahore,Pakistan. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C#, C++ and Rust. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
+<p>I am a Software Enginnering student from the <a href="https://www.comsats.edu.pk/">CIIT</a> in Lahore,Pakistan. I am passionate about blockchain, fintech and machine learning. When I'm not coding, I love to write articles on medium or draw. My languages of choice are Python, C++, Java and Dart. Feel free to reach out and connect if there is a project or postion that you think I would be suitable for, or if you just want to say hi. 
 </em></p>
 
 [![GitHub dcode333](https://img.shields.io/github/followers/dcode333?label=follow&style=social)](https://github.com/dcode333)
