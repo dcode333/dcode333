@@ -10,7 +10,7 @@ I am a software engineering student and like to code 👨‍💻
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dcode333&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dcode333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcode333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcode333&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dcode333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
