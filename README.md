@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineering student and like to code 👨‍💻
+I am a software engineer and like to code 👨‍💻
 
 
 ## 🌐 Socials:
