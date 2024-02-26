@@ -5,7 +5,7 @@ I am a software engineer and like to code 👨‍💻
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4H6QM6fd) [![Leetcode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/dcoder__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-umair-978236264) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19650407) 
 
-<h2 align="left">Hi 👋! My name is Umaie and I'm a Full Stack Dev</h2>
+<h2 align="left">Hi 👋! I'm Umair and I'm a Full Stack Dev</h2>
 
 
 ###
