@@ -68,17 +68,3 @@ I am a software engineer and I am coding as you read 👨‍💻
 ###
 
 
-###
-
-<br clear="both">
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dcode333/count.svg?"  />
-</div>
-
-
-
-
-###
