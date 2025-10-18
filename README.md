@@ -79,9 +79,6 @@ I am a software engineer and I am coding as you read 👨‍💻
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/dcode333/dcode333/output/snake.svg" alt="Snake animation" />
 
-###
 
 ###
