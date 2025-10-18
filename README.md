@@ -9,11 +9,7 @@ I am a software engineer and I am coding as you read 👨‍💻
 <h2 align="left">Hi 👋! I'm Umair and I'm Full Stacked</h2>
 <a href="mailto:omairfic922@gmail.com"><b>Send me an email</b></a>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -67,4 +63,9 @@ I am a software engineer and I am coding as you read 👨‍💻
 
 ###
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
